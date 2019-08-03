@@ -1,8 +1,8 @@
-## 基于 SpringBoot+Maven+Mybatis+Redis+RabbitMQ 高并发商城秒杀系统
+## 高并发秒杀系统及其优化
 ## 开发工具 
 初始为Eclipse，后期转为使用IntelliJ IDEA开发
 ## 开发环境				
-
+SpringBoot+Maven+Mybatis+Redis+RabbitMQ 
 | JDK |Maven | Mysql |SpringBoot | redis |RabbitMQ|
 |--|--|--|--|--|--|
 |1.8 | 3.2.2 | 5.5 | 1.5.9.RELEASE | 3.2 |3.7.14| 
