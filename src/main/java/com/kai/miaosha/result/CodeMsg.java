@@ -1,8 +1,8 @@
-package com.ljs.miaosha.result;
+package com.kai.miaosha.result;
 /**
  * 
-成功的时候，只返回数据。
-失败的话，那么就返回CodeMsg。（里面包含错误码以及错误信息）
+成功时，只返回数据data。code为0，message为空
+失败的话，那么就返回CodeMsg。（包含错误码以及错误信息）
  *
  */
 public class CodeMsg {
