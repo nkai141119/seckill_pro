@@ -9,8 +9,11 @@ SpringBoot+Maven+Mybatis+Redis+RabbitMQ
 |1.8 | 3.2.2 | 5.5 | 1.5.9.RELEASE | 3.2 |3.7.14| 
 
 目前版本Redis和RabbitMQ为本地实现
+
 启动Main后：
+
 登录地址：http://localhost:8080/login/to_login
+
 商品秒杀列表地址：http://localhost:8080/goods/to_list
 
 ## 项目描述
