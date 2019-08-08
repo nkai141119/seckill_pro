@@ -2,16 +2,10 @@
 
 实现了用户登录、商品列表展示、详情页秒杀倒计时、查看订单等基本功能。在此基础上做出了针对高并发、安全性优化。
 
-## 开发工具 
-初始为Eclipse，后期转为使用IntelliJ IDEA开发
 ## 开发环境				
 SpringBoot+Maven+Mybatis+Redis+RabbitMQ 
 
 目前版本Redis和RabbitMQ为本机环境
-
-登录地址：http://localhost:8080/login/to_login
-
-商品秒杀列表地址：http://localhost:8080/goods/to_list
 
 ## 高并发优化
 1. 使用分布式Seesion，让多台服务器可以响应。
@@ -26,6 +20,11 @@ SpringBoot+Maven+Mybatis+Redis+RabbitMQ
 4. 人机验证，采用数学算式图片验证码，在缓解流量高峰的同时防止机器人刷单
 
 ## 以下图片为本机实测
+
+登录地址：http://localhost:8080/login/to_login
+
+商品秒杀列表地址：http://localhost:8080/goods/to_list
+
 登录页面
 
 ![Image text](https://github.com/nkai141119/seckill_pro/blob/master/showimgs/login.png)
