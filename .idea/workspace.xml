@@ -7,138 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed93d331-1c4e-41b2-a6d7-2d65c60c4346" name="Default Changelist" comment="version1.0 8-3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/access/AccessInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/access/AccessInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/access/AccessLimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/access/AccessLimit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/access/UserContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/access/UserContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/config/UserArgumentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/config/UserArgumentResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/controller/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/controller/GoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/controller/MQueueController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/controller/MQueueController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/controller/MiaoshaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/controller/MiaoshaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/dao/GoodsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/dao/GoodsDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/dao/MiaoshaUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/dao/MiaoshaUserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/dao/OrderDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/dao/OrderDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/domain/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/domain/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/domain/MiaoshaGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/domain/MiaoshaGoods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/domain/MiaoshaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/domain/MiaoshaOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/domain/MiaoshaUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/domain/MiaoshaUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/domain/OrderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/domain/OrderInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/exception/GlobalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/exception/GlobalException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/rabbitmq/MQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/rabbitmq/MQConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/rabbitmq/MQReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/rabbitmq/MQReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/rabbitmq/MQSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/rabbitmq/MQSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/rabbitmq/MiaoshaMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/rabbitmq/MiaoshaMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/AccessKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/AccessKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/BasePrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/BasePrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/GoodsKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/GoodsKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/KeyPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/KeyPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/MiaoshaKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/MiaoshaKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/MiaoshaUserKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/MiaoshaUserKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/OrderKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/OrderKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/RedisPoolFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/RedisPoolFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/RedisService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/redis/UserKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/redis/UserKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/result/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/result/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/service/GoodsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/service/MiaoshaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/service/MiaoshaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/service/MiaoshaUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/service/MiaoshaUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/util/DBUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/util/IsMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/util/IsMobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/util/IsMobileValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/util/IsMobileValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/util/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/util/MD5Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/util/UUIDUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/util/UUIDUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/util/UserUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/util/UserUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/util/ValidatorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/util/ValidatorUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/vo/GoodsDetailVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/vo/GoodsDetailVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/vo/GoodsVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/vo/GoodsVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/vo/LoginVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/vo/LoginVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ljs/miaosha/vo/OrderDetailVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kai/miaosha/vo/OrderDetailVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/templates/goods_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/goods_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/templates/goods_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/goods_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/templates/goods_list_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/goods_list_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/templates/order_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/order_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ljs/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kai/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/MainApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/access/AccessInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/access/AccessLimit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/access/UserContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/config/UserArgumentResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/config/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/controller/DemoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/controller/GoodsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/controller/MQueueController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/controller/MiaoshaController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/dao/GoodsDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/dao/MiaoshaUserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/dao/OrderDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/domain/Goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/domain/MiaoshaGoods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/domain/MiaoshaOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/domain/MiaoshaUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/domain/OrderInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/exception/GlobalException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/exception/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/rabbitmq/MQConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/rabbitmq/MQReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/rabbitmq/MQSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/rabbitmq/MiaoshaMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/AccessKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/BasePrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/GoodsKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/KeyPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/MiaoshaKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/MiaoshaUserKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/OrderKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/RedisConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/RedisPoolFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/RedisService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/redis/UserKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/result/CodeMsg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/result/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/service/GoodsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/service/MiaoshaService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/service/MiaoshaUserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/service/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/util/DBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/util/IsMobile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/util/IsMobileValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/util/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/util/UUIDUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/util/UserUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/util/ValidatorUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/vo/GoodsDetailVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/vo/GoodsVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/vo/LoginVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ljs/miaosha/vo/OrderDetailVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/goods_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/goods_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/goods_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/goods_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/goods_list_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/goods_list_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/showimgs/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/showimgs/login.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -348,7 +217,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1400" />
@@ -360,6 +229,73 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="miaosha" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seckill_pro" type="58d84e3e:PackageViewProjectNode" />
+              <item name="miaosha_idea" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -484,130 +420,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="seckill_pro" type="58d84e3e:PackageViewProjectNode" />
-              <item name="miaosha_idea" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="miaosha" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="miaosha" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="access" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="miaosha" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="miaosha" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="rabbitmq" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="kai" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="miaosha" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="seckill_pro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="miaosha_idea" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="static" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -793,6 +605,7 @@
       <workItem from="1565096846469" duration="5324000" />
       <workItem from="1565147183291" duration="4033000" />
       <workItem from="1565170131767" duration="131000" />
+      <workItem from="1565256317986" duration="520000" />
     </task>
     <task id="LOCAL-00001" summary="version1.0 8-3">
       <created>1564800867483</created>
@@ -817,13 +630,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77113000" />
+    <option name="totallyTimeSpent" value="77633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23659517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23994638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -833,7 +645,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.29503545" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16595745" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61702126" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
