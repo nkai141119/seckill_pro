@@ -3,7 +3,7 @@
 <html xmlns:th="http://www.thymeleaf.org">  <!-- th!!! 命名空间使用 -->
 <head>
 <meta charset="UTF-8"/><!--<meta charset="UTF-8" />  thymeleaf模板引擎默认是Template modes:HTML5解析的，所以解析比较严格。  -->
-<title>商品详情</title>
+<title>商品列表</title>
 	<!-- thymeleaf引入静态资源的方式，@加大括弧    "/" 代表static路径-->
 	<!-- jquery -->
 	<!-- <script type="text/javascript" th:src="@{/js/jequery.min.js}"></script> -->
@@ -27,7 +27,8 @@
 			<td th:text="${goods.miaoshaPrice}"></td>
 			<td th:text="${goods.stockCount}"></td>
 			<!-- <td><a th:href="'/goods/to_detail/'+${goods.id}">详情</a></td> -->
-			<!-- 直接请求静态页面 -->
+			<!-- 直接跳转请求静态页面 -->
+			<!--而不是再请求to_detail,to_detail目前已经相当于作废了-->
 			<td><a th:href="'/goods_detail.htm?goodsId='+${goods.id}">详情</a></td>
 		</tr>
 		</table>

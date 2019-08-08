@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/><!--<meta charset="UTF-8" />  thymeleaf模板引擎默认是Template modes:HTML5解析的，所以解析比较严格。  -->
 	<title>登录</title>
-	<!-- thymeleaf引入静态资源的方式，@加大括弧    "/" 代表static路径-->
+	<!-- thymeleaf引入静态资源的方式，@{}    "/" 代表static路径-->
 	<!-- jquery -->
 	<!-- <script type="text/javascript" th:src="@{/js/jequery.min.js}"></script> -->
 	<script type="text/javascript" th:src="@{/jquery-validation/lib/jquery-1.11.1.js}"></script>
@@ -99,25 +99,29 @@
 				//alert(salt);
 				//alert(pass);
 				//alert(password);
-				//与后台Md5规则一致
+				//前端加盐、求md5操作，与后台Md5规则一致
 				//var str=""+salt.charAt(0)+salt.charAt(2)+formPass+salt.charAt(5)+salt.charAt(4);
 				$.ajax({
+					//POST方式，提交数据
 					url:"/login/do_login",
 					type:"POST",
 					data:{
+					    //这里的password是前端md5计算后的值，而不是把明文密码直接提交后端
 						mobile:$("#phone").val(),
 						password:password,
-					},
+					},//回调函数
 					success:function(data){
 						if(data.code==0){
+						    //弹窗出现success
 							alert("success");
-							//成功后跳转
+							//成功后跳转到秒杀商品列表页面
 							window.location.href="/goods/to_list";
 						}else{
 							alert(data.msg);
 						}
 					},
 					error:function(data){
+					    //弹窗出现error
 						alert("error");
 						//alert(data.msg);
 					}
